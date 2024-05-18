@@ -1,0 +1,47 @@
+/* Genel stiller */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #ff69b4;
+    color: #fff;
+    text-align: center;
+    padding: 1em 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 40px;
+}
+
+h2 {
+    color: #ff69b4;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.menu-item {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #ff69b4;
+    font-size: 1.2em;
+}
+
+.price {
+    color: #333;
+    font-weight: bold;
+}
